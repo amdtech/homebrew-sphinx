@@ -3,7 +3,7 @@ require 'formula'
 class Sphinx < Formula
   url 'https://s3-eu-west-1.amazonaws.com/rnaveiras-software/sphinx-0.9.9.tar.gz'
   homepage 'http://www.sphinxsearch.com'
-  sha1 '8c739b96d756a50972c27c7004488b55d7458015'
+  sha256 'bf8f55ffc095ff6b628f0cbc7eb54761811140140679a1c869cc1b17c42803e4'
 
   depends_on 'homebrew/dupes/apple-gcc42'
 
